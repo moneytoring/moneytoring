@@ -13,6 +13,7 @@ Untuk saat ini Aplikasi Moneytoring masih sangat terbatas, sehingga hanya suppor
 - OVO to BRI
 - OVO to OVO 
 - BRI to DANA
+- PERMATA BANK to DANA
 - BRI to BRIVA
 
 # Feature 
