@@ -82,7 +82,7 @@ ShopeePay-mu. Saldo saat ini Rp140.329
 
 Kami persilahkan siapa saja untuk kontribusi dalam penambahan dataset notifikasi, tujuannya agar aplikasi kami semakin berkembang dan lebih baik lagi. <br>
 kemudian bagaimana cara kontribusinya? anda dapat melakukan submit pada google form ini
-https://forms.gle/Cbe4dNMnKK94BnkG6
+https://forms.gle/d5xbGkECTyWEBJG19
 <br>Thanks!
 
 ## License
