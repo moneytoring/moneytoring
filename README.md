@@ -44,6 +44,7 @@ OVO - IN :
 Top up sebesar Rp100.000 melalui BANK BRI, telah berhasil
 Top up Rp 10.000 dari BSI - TOP UP telah berhasil
 Top up sebesar Rp20.000 melalui BANK BRI, telah berhasil
+Loremipsum mengirimkan dana sebesar Rp 10.000 melalui aplikasi OVO
 
 OVO - OUT :
 Transfer Rp100.000.00 ke HAXIM berhasil. Kamu dikenakan biaya transaksi Rp5.000
@@ -65,6 +66,10 @@ SHOPEE - IN
 Isi saldo
 GSJGDJHGSJDGJSDGSDJGHSJ sebesar Rp10.000 telah ditambahkan ke
 ShopeePay-mu. Saldo saat ini Rp140.329
+
+Paypal - IN
+Paypal.co.Ltd telah mengirimkan anda $1000
+
 ```
 
 ## Resource 
